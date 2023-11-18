@@ -3,7 +3,7 @@
 ## Problem Statement
 Titanic is one of the most infamous shipwrecks in history. This dataset contains information about 891 people who were on board the ship when departed on April 15th, 1912
 
-Using the information about these 891 passengers, build a machine learning model that predicts which passenger would survived the Titanic shipwreck using passenger data (ie name, age, gender, socio-economic class, etc)
+Using the information about these 891 passengers, build a machine learning model that predicts which passenger would survived the Titanic shipwreck using passenger data (ie name, age, gender, socio-economic class, etc).
 
 Using the Titanic dataset from [this](https://www.kaggle.com/c/titanic/overview) Kaggle competition.
 
